@@ -14,6 +14,12 @@ SAFE_REFUSAL = "Tôi không thể xác minh thông tin này từ nguồn hiện 
 ROOT = Path(__file__).parent
 STANDARDIZED_DIR = ROOT / "data" / "standardized"
 
+st.set_page_config(
+    page_title="Tư vấn du lịch Đà Nẵng",
+    page_icon="🌊",
+    layout="wide",
+)
+
 st.markdown(
     """
     <style>
@@ -27,8 +33,6 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
-
-st.set_page_config(page_title="Tư vấn du lịch Đà Nẵng", page_icon="🌊", layout="wide")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
