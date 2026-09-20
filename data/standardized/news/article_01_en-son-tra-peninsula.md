@@ -1,0 +1,208 @@
+# Son Tra Peninsula - Danang Fantasticity - Da Nang City Tourism Information Portal
+
+**Source:** https://danangfantasticity.com/en/son-tra-peninsula
+
+**Crawled:** 2026-09-20T08:07:20.020577+00:00
+
+---
+
+[Weather](https://danangfantasticity.com/en/weather)[E-Magazine](https://danangfantasticity.com/en/emagazine)[E-Newsletter](https://danangfantasticity.com/en/enewsletter)[E-Book](https://danangfantasticity.com/en/ebook)[PR Program](https://danangfantasticity.com/en/pr)[Experience VR360](http://vr360.danangfantasticity.com/)
+English
+Login
+  * [![Danang Fantasticity](https://danangfantasticity.com/wp-content/uploads/dfc/public/main-logo.png)](https://danangfantasticity.com/en)
+  * [About Da Nang](https://danangfantasticity.com/en/category/about-da-nang?id=147)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/weather.png) Weather Da Nang](https://danangfantasticity.com/en/weather-da-nang)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/about_danang.png) About Da Nang City](https://danangfantasticity.com/en/about-da-nang-city)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/history_danang.png) Da Nang History](https://danangfantasticity.com/en/da-nang-history)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/logo_slogan.png) Danang Tourism Logo & Slogan](https://danangfantasticity.com/en/danang-tourism-logo-slogan)
+  * [See & Do](https://danangfantasticity.com/en/category/see-do?id=13046)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/travel.png) Sight seeing](https://danangfantasticity.com/en/category/sight-seeing?id=13271)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/error.png) Culture](https://danangfantasticity.com/en/category/culture?id=13058)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/history.png) History](https://danangfantasticity.com/en/category/history?id=13066)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/art.png) Art](https://danangfantasticity.com/en/category/art?id=13072)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/architect.png) Architecture](https://danangfantasticity.com/en/category/architecture?id=13078)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/relax.png) Entertainment & Relax](https://danangfantasticity.com/en/category/entertainment-relax?id=517)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/community.png) Eco-tourism & The Community](https://danangfantasticity.com/en/category/eco-tourism-the-community?id=12427)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/three_place.png) Three Localities At One Destination](https://danangfantasticity.com/en/category/three-localities-at-one-destination?id=13100)
+  * [Festivals & Events](https://danangfantasticity.com/en/category/festivals-events?id=13106)
+  * [Eat & Drink](https://danangfantasticity.com/en/category/eat-drink?id=13114)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/local_food.png) Local food](https://danangfantasticity.com/en/category/local-food?id=13116)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/inter_food.png) International Cuisine](https://danangfantasticity.com/en/category/international-cuisine?id=13118)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/nightlife.png) Nightlife](https://danangfantasticity.com/en/category/nightlife?id=13122)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/michelin.png) MICHELIN Guide](https://danangfantasticity.com/en/category/michelin-guide?id=13390)
+  * [Shopping](https://danangfantasticity.com/en/category/shopping?id=13124)
+  * [Explore](https://danangfantasticity.com/en/category/explore?id=171)
+  * [Stay](https://danangfantasticity.com/en/category/stay?id=82)
+  * [Promotion](https://danangfantasticity.com/en/category/promotion?id=177)
+  * [News](https://danangfantasticity.com/en/category/news?id=169)
+  * [Traveller Essentials](https://danangfantasticity.com/en/category/traveller-essentials?id=1163)
+
+
+Login
+EN
+  * [Homepage](https://danangfantasticity.com/en)
+  * [About Da Nang](https://danangfantasticity.com/en/category/about-da-nang?id=147)
+  * [See & Do](https://danangfantasticity.com/en/category/see-do?id=13046)
+  * [Festivals & Events](https://danangfantasticity.com/en/category/festivals-events?id=13106)
+  * [Eat & Drink](https://danangfantasticity.com/en/category/eat-drink?id=13114)
+  * [Shopping](https://danangfantasticity.com/en/category/shopping?id=13124)
+  * [Explore](https://danangfantasticity.com/en/category/explore?id=171)
+  * [Stay](https://danangfantasticity.com/en/category/stay?id=82)
+  * [Promotion](https://danangfantasticity.com/en/category/promotion?id=177)
+  * [News](https://danangfantasticity.com/en/category/news?id=169)
+  * [Traveller Essentials](https://danangfantasticity.com/en/category/traveller-essentials?id=1163)
+
+
+  1. [Natural](https://danangfantasticity.com/en/category/natural?id=1)
+>
+  2. Son Tra Peninsula
+
+
+# Son Tra Peninsula
+###### 15/01/2016
+Share
+Add to Favorites
+Print
+> _The Son Tra Peninsula represents the culmination of the Truong Son (Northern) mountain range, projecting directly into the Biển Đông (the Eastern Sea) alongside Hai Van Mountain. Its highest elevation reaches 696 meters. The peninsula spans 15 kilometers from east to west, with a width ranging from 2 to 6 kilometers. It covers an area of 4,390 hectares with a circumference of approximately 50 kilometers. Notably, the peninsula is a substantial protective barrier and a crucial ecological asset for Da Nang City._
+![](https://danangfantasticity.com/wp-content/uploads/2024/04/son-tra-peninsula-cong-thong-tin-du-lich-da-nang.jpg)
+Positioned 10 kilometers northeast of Da Nang City center, the peninsula showcases a diverse ecosystem, picturesque coastline, invigorating climate, and a well-established transportation infrastructure linking it to the city center. The ongoing development and enhancement of interconnecting roads within the peninsula are creating the necessary conditions for Son Tra to evolve into one of the most alluring tourist destinations in Da Nang.
+The Son Tra Peninsula is predominantly comprised of granite. It is characterized by yellow-brown ferallitic soil, which exhibits a light mechanical composition and poor water retention. This region experiences a tropical monsoon climate, with an average annual rainfall of 2184mm. Temperatures during the hot season typically range from 28-29°C, while in winter, they vary between 18-22°C. The peninsula is intersected by approximately 20 streams that flow consistently throughout the year or seasonally. Notable streams include Tien Sa and Ôm on the north side and Bai Con, Bai Trem, and Đá Stream on the south side.
+Renowned for its picturesque and romantic landscapes, the Son Tra Peninsula encompasses 4,370 hectares of primary forest, characterized by lush, green, low mountain ranges that extend into the sea. This expanse is a substantial wind and storm barrier for the surrounding city.
+![](https://danangfantasticity.com/wp-content/uploads/2015/09/cang-tien-sa-ban-dao-son-tra-thanh-pho-da-nang.jpg)
+Passing through Tien Sa Port, one of the three largest ports in Vietnam, unveils a significant economic development potential characterized by the exchange of goods among boats. With the evolving trends in tourism development, Tien Sa Port has emerged as a pivotal hub for economic transactions, attracting sizeable international tourist boats that bring visitors to Da Nang. Tien Sa Beach, adorned with fine sand and clear blue waters, emanates eternal tranquility and boasts globally recognized ecosystem values, rendering it one of the most beautiful coastlines in the world.
+![](https://danangfantasticity.com/wp-content/uploads/2015/09/dinh-ban-co-ban-dao-son-tra-da-nang.jpg)
+From the summit of Son Tra, visitors are treated to a panoramic vista of Da Nang City, which gracefully arcs alongside prominent landmarks such as the Marble Mountains, Ba Na Hills, and the majestic Hai Van Pass.
+![](https://danangfantasticity.com/wp-content/uploads/2015/09/vooc-cha-va-chan-nau-ban-dao-son-tra-danang.jpg)
+Son Tra Peninsula is a diverse and rich nature reserve. Its forests have remained close to their pristine state and feature unique flora and fauna. This includes 289 plant species spread across 271 genera and 90 families. The peninsula is also home to nearly 300 rare red-shanked douc langurs, red-faced chickens, monkeys, and other globally recognized rare animals.
+The base of the mountain hosts several exquisite white sandy beaches, including Bai Bang, Bai Rang, Bai But, Bai Nam, and the freshwater beach Da Den, complemented by streams such as Om Stream and Da Stream, which flow down from the mountainside with clear water and the gentle sound of waves, captivating visitors. Additionally, the area showcases the Marble Mountains resembling a colossal bonsai, with Cham Island visible in the distance.
+![](https://danangfantasticity.com/wp-content/uploads/2015/09/du-luon-tai-ban-dao-son-tra.jpg)
+Son Tra Peninsula is replete with historical relics from the French and American resistance periods, serving as an ideal resort location alongside Tien Sa Port, pagodas, and affluent folklore legends embedded with humanistic value. It is an essential destination for visitors to Da Nang. In addition to services such as coral diving and sea yachting, visitors can immerse themselves in nature, indulge in water sports like jet skiing and parasailing, and partake in fishermen’s festivals, leaving indelible impressions. Son Tra focuses on investment and exploitation to attract a broader spectrum of domestic and international tourists.
+Son Tra Peninsula, a convergence of natural elements, history, and folklore rich in humanity, alongside the relentless aspirations of the people of Son Tra District and Da Nang City, will soon become an ideal stopover. Along with Ba Na Hills and Marble Mountains, it will form an attractive tourism chain unmatched elsewhere.
+[![](https://danangfantasticity.com/wp-content/uploads/2015/09/vr-360-danang-fantasticity-com-khu-bao-ton-thien-nhien-ban-dao-son-tra-danang.jpg)](https://vr360.danangfantasticity.com/#sontra_tongquan_fly_1)
+#### **MUST-VISIT SITES IN SON TRA PENINSULA NATURE RESERVE – DA NANG (ACCORDING TO GOOGLE TRAVEL)**
+[![Chua Buu Dai Son Tho Quang Son Tra Da Nang](https://danangfantasticity.com/wp-content/uploads/2015/09/chua-buu-dai-son-tho-quang-son-tra-da-nang.jpg)](https://danangfantasticity.com/wp-content/uploads/2015/09/chua-buu-dai-son-tho-quang-son-tra-da-nang.jpg)
+**BUU DAI SON PAGODA** | Address: Tho Quang Ward – Son Tra District – Da Nang City – Vietnam
+Buu Dai Son Pagoda in Da Nang is a popular stop before heading up the Son Tra Peninsula. This ancient temple features colorful Buddha statues, Buddhist-style roofs, and small towers.
+[![Ho Xanh Tren Ban Dao Son Tra 4](https://danangfantasticity.com/wp-content/uploads/2015/09/ho-xanh-tren-ban-dao-son-tra-4.jpg)](https://danangfantasticity.com/wp-content/uploads/2015/09/ho-xanh-tren-ban-dao-son-tra-4.jpg)
+**XANH LAKE – SON TRA – DA NANG**
+Xanh Lake is renowned for its breathtaking natural scenery. Resting against the Son Tra Mountains, it is enveloped by verdant surroundings and crystal-clear water, making it a prime location for wedding photos in Da Nang.
+[![Chua Linh Ung Ban Dao Son Tra Danang](https://danangfantasticity.com/wp-content/uploads/2015/09/chua-linh-ung-ban-dao-son-tra-danang.jpg)](https://danangfantasticity.com/wp-content/uploads/2015/09/chua-linh-ung-ban-dao-son-tra-danang.jpg)
+**LINH UNG PAGODA – BAI BUT – DA NANG**
+Linh Ung Pagoda is situated in Bai But, Son Tra Peninsula, approximately 10km northeast of Da Nang city center. The late Venerable Thich Thien Nguyen established the pagoda. Construction commenced on July 4, 2004, and the pagoda was officially inaugurated on July 30, 2010.
+[![Bao Tang Dong Dinh Son Tra Danang](https://danangfantasticity.com/wp-content/uploads/2015/09/bao-tang-dong-dinh-son-tra-danang.jpg)](https://danangfantasticity.com/wp-content/uploads/2015/09/bao-tang-dong-dinh-son-tra-danang.jpg)
+**DONG DINH MUSEUM**
+Dong Dinh Museum is a private museum located in the national reserve of Son Tra. It showcases ancient ceramics from various cultures, including Dai Viet, Sa Huynh, and Cham, dating from 100 to 2,500 years old.
+[![Bai Da Obama Ban Dao Son Tra](https://danangfantasticity.com/wp-content/uploads/2015/09/bai-da-obama-ban-dao-son-tra.jpg)](https://danangfantasticity.com/wp-content/uploads/2015/09/bai-da-obama-ban-dao-son-tra.jpg)
+**BAI DA (BÃI ĐA)**
+Bai Da is a pristine rocky beach on the Son Tra Peninsula. It is named for its proximity to “Cây đa di sản”—the famous ancient banyan tree.
+[![Ghenh Bang Son Tra Danang Fantasticity](https://danangfantasticity.com/wp-content/uploads/2015/09/ghenh-bang-son-tra-danang-fantasticity.jpg)](https://danangfantasticity.com/wp-content/uploads/2015/09/ghenh-bang-son-tra-danang-fantasticity.jpg)
+**GHENH BANG**
+This location retains its pristine, natural beauty with many beautiful, rugged rocks. Under the spring and summer sun, it becomes a favorite spot for young people. The path to Ghenh Bang is steep and slippery, so caution is advised.
+[![Mui Nghe Danang Son Tra Du Lich Sinh Thai 1](https://danangfantasticity.com/wp-content/uploads/2015/09/mui-nghe-danang-son-tra-du-lich-sinh-thai-1.jpg)](https://danangfantasticity.com/wp-content/uploads/2015/09/mui-nghe-danang-son-tra-du-lich-sinh-thai-1.jpg)
+**MUI NGHE**
+Mui Nghe, the city’s easternmost point, offers a breathtaking sunrise view. Its azure waters make it a prime spot for many exciting activities and experiences.
+[![Cay Da Son Tra Cay Da 800 Nam Tuoi](https://danangfantasticity.com/wp-content/uploads/2015/09/cay-da-son-tra-cay-da-800-nam-tuoi.jpg)](https://danangfantasticity.com/wp-content/uploads/2015/09/cay-da-son-tra-cay-da-800-nam-tuoi.jpg)
+**SON TRA BANYAN TREE**
+The Son Tra Banyan Tree is over 800 years old. It stands 22 meters tall, with the circumference of its main trunk and cluster of auxiliary trunks reaching up to 85 meters. This ancient tree is part of a cluster of old banyan trees at Son Tra Peninsula.
+[![Hai Dang Tien Sa Hai Dang Vang Son Tra Danang](https://danangfantasticity.com/wp-content/uploads/2015/09/hai-dang-tien-sa-hai-dang-vang-son-tra-danang.jpg)](https://danangfantasticity.com/wp-content/uploads/2015/09/hai-dang-tien-sa-hai-dang-vang-son-tra-danang.jpg)
+**TIEN SA LIGHTHOUSE**
+Son Tra Lighthouse, also known as Tien Sa Lighthouse, was constructed in the 20th century at approximately 223 meters above sea level.
+[![Dinh Ban Co Khu Bao Ton Thien Nhien Ban Dao Son Tra Danang](https://danangfantasticity.com/wp-content/uploads/2015/09/dinh-ban-co-khu-bao-ton-thien-nhien-ban-dao-son-tra-danang.jpg)](https://danangfantasticity.com/wp-content/uploads/2015/09/dinh-ban-co-khu-bao-ton-thien-nhien-ban-dao-son-tra-danang.jpg)
+**BAN CO PEAK**
+Reaching Ban Co Peak involves climbing steep stairs after a long road from the mountain base. The peak is nearly 700 meters high and offers a panoramic view of Da Nang City, the Han River, and its bridges.
+[![Intercontinental Danang Sun Peninsula](https://danangfantasticity.com/wp-content/uploads/2015/09/InterContinental-Danang-Sun-Peninsula.jpg)](https://danangfantasticity.com/wp-content/uploads/2015/09/InterContinental-Danang-Sun-Peninsula.jpg)
+**INTERCONTINENTAL DANANG SUN PENINSULA**
+Nestled in the legendary hills of Son Tra Peninsula with panoramic views of the East Sea, this luxury resort with 201 rooms was designed by renowned architect Bill Bensley and opened in June 2012.
+[![Suoi Da Son Tra Danang](https://danangfantasticity.com/wp-content/uploads/2015/09/suoi-da-son-tra-danang.jpg)](https://danangfantasticity.com/wp-content/uploads/2015/09/suoi-da-son-tra-danang.jpg)
+**SUOI DA**
+Address: Located at the foot of Son Tra Peninsula, the road to Suoi Da offers a beautiful city view, perfect for escaping urban noise.
+[![Son Tra Tinh Vien Danang](https://danangfantasticity.com/wp-content/uploads/2015/09/son-tra-tinh-vien-danang.jpg)](https://danangfantasticity.com/wp-content/uploads/2015/09/son-tra-tinh-vien-danang.jpg)
+**SON TRA TINH VIEN**
+It is nestled deep in a valley at Son Tra, less than 8 km from Da Nang city center. Son Tra Tinh Vien is peaceful, with 108 bamboo species, including some from Tibet, nurtured by Thich The Tuong.
+_  
+[![Nha Vong Canh Danang](https://danangfantasticity.com/wp-content/uploads/2015/09/nha-vong-canh-danang.jpg)](https://danangfantasticity.com/wp-content/uploads/2015/09/nha-vong-canh-danang.jpg)_
+**VONG CANH POINT**
+Vong Canh Point is situated on a rocky outcrop and offers a beautiful view of Ngoc Island (also known as Small Son Tra Island), a radar station, and Hai Van Pass. In front of the point is a stone monkey statue, symbolizing the Son Tra Peninsula.
+**BAI CAT VANG, BAI DA DEN, AND TIEN SA BEACH**
+Bai Cat Vang and Bai Da Den are located next to each other on a slope in Son Tra. Each site has unique beauty: Bai Cat Vang has sandy expanses and clear waters, while Bai Da Den features large, uniquely shaped rocks.
+Tien Sa Beach remains pristine and tranquil on the northern side of the Son Tra Peninsula
+**DANANG CENTER FOR TOURISM PROMOTION**
+##### Explore
+  * ![THE STATUE OF VIETNAMESE HEROIC MOTHER](https://danangfantasticity.com/wp-content/uploads/2026/08/quan-the-tuong-dai-me-viet-nam-anh-hung-9.jpg)
+###### [THE STATUE OF VIETNAMESE HEROIC MOTHER](https://danangfantasticity.com/en/natural/the-statue-of-vietnamese-heroic-mother)
+  * ![Escape Room Wins Best Project at DANAFF Talents](https://danangfantasticity.com/wp-content/uploads/2026/08/lien-hoan-phim-2026-2.jpg)
+###### [Escape Room Wins Best Project at DANAFF Talents Dự án phim Escape Room (Scared to Death) đã được vinh danh là Dự án xuất sắc nhất ở hạng mục Dự án phim Việt Nam đa thể loại thuộc chương...](https://danangfantasticity.com/en/natural/escape-room-wins-best-project-at-danaff-talents)
+  * ![Filmmaker Edwin Joins the Vietnamese Film Competition Jury at DANAFF IV](https://danangfantasticity.com/wp-content/uploads/2026/06/nha-lam-phim-edwin-chinh-thuc-la-thanh-vien-ban-giam-khao-phim-viet-nam-du-thi-danaff-iv.jpg)
+###### [Filmmaker Edwin Joins the Vietnamese Film Competition Jury at DANAFF IV Filmmaker Edwin, one of the leading figures of contemporary Indonesian cinema, has officially joined the Jury for the Vietnamese...](https://danangfantasticity.com/en/natural/filmmaker-edwin-joins-the-vietnamese-film-competition-jury-at-danaff-iv)
+  * ![Acting Masterclass with World Cinema Legend Jane Seymour](https://danangfantasticity.com/wp-content/uploads/2026/06/lop-hoc-dien-xuat-chuyen-sau-cung-huyen-thoai-dien-anh-the-gioi-jane-seymour.jpg)
+###### [Acting Masterclass with World Cinema Legend Jane Seymour Cinema enthusiasts will have the unique opportunity to meet, learn from, and engage directly with Jane Seymour...](https://danangfantasticity.com/en/natural/acting-masterclass-with-world-cinema-legend-jane-seymour)
+  * ![Associate Professor Dr. Hoang Cam Giang Joins the Critics Jury at DANAFF IV](https://danangfantasticity.com/wp-content/uploads/2026/06/pgs-ts-hoang-cam-giang-la-thanh-vien-ban-giam-khao-phe-binh-tai-danaff-iv.jpg)
+###### [Associate Professor Dr. Hoang Cam Giang Joins the Critics Jury at DANAFF IV According to the DANAFF IV, Associate Professor Dr. Hoang Cam Giang will serve as a member of the Critics Jury at this year’s festival.](https://danangfantasticity.com/en/natural/associate-professor-dr-hoang-cam-giang-joins-the-critics-jury-at-danaff-iv)
+  * ![Film Critic and Screenwriter Kong Rithdee Appointed Chair of the Critics Jury at DANAFF IV](https://danangfantasticity.com/wp-content/uploads/2026/06/nha-phe-binh-dien-anh-nha-bien-kich-kong-rithdee-giu-vai-tro-chu-tich-ban-giam-khao-phe-binh.jpg)
+###### [Film Critic and Screenwriter Kong Rithdee Appointed Chair of the Critics Jury at DANAFF IV According to the Organizing Committee of the 4th Da Nang Asian Film Festival (DANAFF IV), film critic and screenwriter Kong Rithdee...](https://danangfantasticity.com/en/natural/film-critic-and-screenwriter-kong-rithdee-appointed-chair-of-the-critics-jury-at-danaff-iv)
+  * ![Introducing the Jury Panel for the Vietnamese Genre Film Project Pitching Session](https://danangfantasticity.com/wp-content/uploads/2026/06/gioi-thieu-hoi-dong-giam-khao-phien-thuyet-trinh-du-an-phim-viet-nam-da-the-loai.jpg)
+###### [Introducing the Jury Panel for the Vietnamese Genre Film Project Pitching Session The Vietnamese Genre Film Project Pitching Session, part of the DANAFF Talents program at the 4th Da Nang Asian Film Festival (DANAFF IV)](https://danangfantasticity.com/en/natural/introducing-the-jury-panel-for-the-vietnamese-genre-film-project-pitching-session)
+  * ![Enjoy Da Nang’s Most Famous Noodle Dishes](https://danangfantasticity.com/wp-content/uploads/2026/06/mi-quang-2-1.jpg)
+###### [Enjoy Da Nang’s Most Famous Noodle Dishes Some flavors do not require a long journey to discover. Simply take a seat at a street-side stall, a family-run eatery tucked inside a...](https://danangfantasticity.com/en/natural/enjoy-da-nangs-most-famous-noodle-dishes)
+
+
+  *     * ##### Danangfantasticity.com
+    * [About Da Nang](https://danangfantasticity.com/en/category/about-da-nang?id=147)
+    * [See & Do](https://danangfantasticity.com/en/category/see-do?id=13046)
+    * [Festivals & Events](https://danangfantasticity.com/en/category/festivals-events?id=13106)
+    * [Eat & Drink](https://danangfantasticity.com/en/category/eat-drink?id=13114)
+    * [Shopping](https://danangfantasticity.com/en/category/shopping?id=13124)
+    * [Explore](https://danangfantasticity.com/en/category/explore?id=171)
+    * [Stay](https://danangfantasticity.com/en/category/stay?id=82)
+    * [Promotion](https://danangfantasticity.com/en/category/promotion?id=177)
+    * [News](https://danangfantasticity.com/en/category/news?id=169)
+    * [Traveller Essentials](https://danangfantasticity.com/en/category/traveller-essentials?id=1163)
+  *     * ##### Related websites
+    * [Enjoy Da Nang](https://danangfantasticity.com/en/son-tra-peninsula)
+    * [Da Nang City's Electronic Information Portal](https://danangfantasticity.com/en/son-tra-peninsula)
+    * * * *
+    * ##### Hotline for tourists
+    * Da Nang Tourist Support Center
+    * HOTLINE: (+84)236 3 550 111 | (+84)236 3 1022
+  *     * ##### About us
+    * Copyright © People’s Committee of Da Nang City Department of Culture, Sports, and Tourism of Da Nang Managed by Danang Tourism Promotion Center
+    * Tel: (84.236) 3.898.196 
+Fax: (84.236) 3.812.029
+    * Contact Us: media@danangfantasticity.com
+    * License: 705/GP-STTTT dated July 18, 2024 of the City Department of Information and Communications. Da Nang
+  *     * ##### Connect with us
+    * [](https://www.facebook.com/visitdanang)[](https://twitter.com/visit_danang)[](https://www.instagram.com/danang_fantasticity/)[](https://www.youtube.com/channel/UCbU4vD3PB8XGhxLF3hxhyTg)[](https://www.tiktok.com/@danangfantasic)
+
+
+###### Quick links
+  * [Essential travel information](https://danangfantasticity.com/en/son-tra-peninsula)
+  * [Tour itinerary](https://danangfantasticity.com/en/son-tra-peninsula)
+  * [Walking route](https://danangfantasticity.com/en/son-tra-peninsula)
+  * [Essential travel information](https://danangfantasticity.com/en/son-tra-peninsula)
+  * ###### Connect with us
+[](https://www.facebook.com/visitdanang)[](https://twitter.com/visit_danang)[](https://www.instagram.com/danang_fantasticity/)[](https://www.youtube.com/channel/UCbU4vD3PB8XGhxLF3hxhyTg)[](https://www.tiktok.com/@danangfantasic)
+
+
+Copyright © ##year## Da Nang City People's Committee, Department of Tourism, Managed by Da Nang Tourism Promotion Center.| [Terms of Use](https://danangfantasticity.com/en/son-tra-peninsula) | [Security Commitment](https://danangfantasticity.com/en/son-tra-peninsula) | [Report Security Vulnerabilities](https://danangfantasticity.com/en/son-tra-peninsula)
+[Site Map](https://danangfantasticity.com/en/son-tra-peninsula) | [Contact Us](https://danangfantasticity.com/en/son-tra-peninsula)
+###### [DaNangFantasic.com](https://danangfantasticity.com/en/son-tra-peninsula)
+  * [About Da Nang](https://danangfantasticity.com/en/category/about-da-nang?id=147)
+  * [See & Do](https://danangfantasticity.com/en/category/see-do?id=13046)
+  * [Festivals & Events](https://danangfantasticity.com/en/category/festivals-events?id=13106)
+  * [Eat & Drink](https://danangfantasticity.com/en/category/eat-drink?id=13114)
+  * [Shopping](https://danangfantasticity.com/en/category/shopping?id=13124)
+  * [Explore](https://danangfantasticity.com/en/category/explore?id=171)
+  * [Stay](https://danangfantasticity.com/en/category/stay?id=82)
+  * [Promotion](https://danangfantasticity.com/en/category/promotion?id=177)
+  * [News](https://danangfantasticity.com/en/category/news?id=169)
+  * [Traveller Essentials](https://danangfantasticity.com/en/category/traveller-essentials?id=1163)
+
+
+###### [Related websites](https://danangfantasticity.com/en/son-tra-peninsula)
+  * [Enjoy Da Nang](https://danangfantasticity.com/en/son-tra-peninsula)
+  * [Da Nang City's Electronic Information Portal](http://danang.gov.vn/)
+
+
+Copyright © ##year## Da Nang City People's Committee, Department of Tourism, Managed by Da Nang Tourism Promotion Center.
+License: 705/GP-STTTT dated July 18, 2024 of the City Department of Information and Communications. Da Nang
+Son Tra Peninsula - Danang Fantasticity - Da Nang City Tourism Information Portal

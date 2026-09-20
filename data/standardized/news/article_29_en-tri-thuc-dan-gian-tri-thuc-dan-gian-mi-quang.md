@@ -1,0 +1,156 @@
+# Tri thức dân gian Mì Quảng - Danang Fantasticity - Da Nang City Tourism Information Portal
+
+**Source:** https://danangfantasticity.com/en/tri-thuc-dan-gian/tri-thuc-dan-gian-mi-quang
+
+**Crawled:** 2026-09-20T08:09:54.792394+00:00
+
+---
+
+[Weather](https://danangfantasticity.com/en/weather)[E-Magazine](https://danangfantasticity.com/en/emagazine)[E-Newsletter](https://danangfantasticity.com/en/enewsletter)[E-Book](https://danangfantasticity.com/en/ebook)[PR Program](https://danangfantasticity.com/en/pr)[Experience VR360](http://vr360.danangfantasticity.com/)
+English
+Login
+  * [![Danang Fantasticity](https://danangfantasticity.com/wp-content/uploads/dfc/public/main-logo.png)](https://danangfantasticity.com/en)
+  * [About Da Nang](https://danangfantasticity.com/en/category/about-da-nang?id=147)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/weather.png) Weather Da Nang](https://danangfantasticity.com/en/weather-da-nang)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/about_danang.png) About Da Nang City](https://danangfantasticity.com/en/about-da-nang-city)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/history_danang.png) Da Nang History](https://danangfantasticity.com/en/da-nang-history)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/logo_slogan.png) Danang Tourism Logo & Slogan](https://danangfantasticity.com/en/danang-tourism-logo-slogan)
+  * [See & Do](https://danangfantasticity.com/en/category/see-do?id=13046)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/travel.png) Sight seeing](https://danangfantasticity.com/en/category/sight-seeing?id=13271)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/error.png) Culture](https://danangfantasticity.com/en/category/culture?id=13058)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/history.png) History](https://danangfantasticity.com/en/category/history?id=13066)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/art.png) Art](https://danangfantasticity.com/en/category/art?id=13072)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/architect.png) Architecture](https://danangfantasticity.com/en/category/architecture?id=13078)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/relax.png) Entertainment & Relax](https://danangfantasticity.com/en/category/entertainment-relax?id=517)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/community.png) Eco-tourism & The Community](https://danangfantasticity.com/en/category/eco-tourism-the-community?id=12427)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/three_place.png) Three Localities At One Destination](https://danangfantasticity.com/en/category/three-localities-at-one-destination?id=13100)
+  * [Festivals & Events](https://danangfantasticity.com/en/category/festivals-events?id=13106)
+  * [Eat & Drink](https://danangfantasticity.com/en/category/eat-drink?id=13114)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/local_food.png) Local food](https://danangfantasticity.com/en/category/local-food?id=13116)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/inter_food.png) International Cuisine](https://danangfantasticity.com/en/category/international-cuisine?id=13118)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/nightlife.png) Nightlife](https://danangfantasticity.com/en/category/nightlife?id=13122)
+    * [![](https://danangfantasticity.com/wp-content/uploads/dfc/public/menu-icons/michelin.png) MICHELIN Guide](https://danangfantasticity.com/en/category/michelin-guide?id=13390)
+  * [Shopping](https://danangfantasticity.com/en/category/shopping?id=13124)
+  * [Explore](https://danangfantasticity.com/en/category/explore?id=171)
+  * [Stay](https://danangfantasticity.com/en/category/stay?id=82)
+  * [Promotion](https://danangfantasticity.com/en/category/promotion?id=177)
+  * [News](https://danangfantasticity.com/en/category/news?id=169)
+  * [Traveller Essentials](https://danangfantasticity.com/en/category/traveller-essentials?id=1163)
+
+
+Login
+EN
+  * [Homepage](https://danangfantasticity.com/en)
+  * [About Da Nang](https://danangfantasticity.com/en/category/about-da-nang?id=147)
+  * [See & Do](https://danangfantasticity.com/en/category/see-do?id=13046)
+  * [Festivals & Events](https://danangfantasticity.com/en/category/festivals-events?id=13106)
+  * [Eat & Drink](https://danangfantasticity.com/en/category/eat-drink?id=13114)
+  * [Shopping](https://danangfantasticity.com/en/category/shopping?id=13124)
+  * [Explore](https://danangfantasticity.com/en/category/explore?id=171)
+  * [Stay](https://danangfantasticity.com/en/category/stay?id=82)
+  * [Promotion](https://danangfantasticity.com/en/category/promotion?id=177)
+  * [News](https://danangfantasticity.com/en/category/news?id=169)
+  * [Traveller Essentials](https://danangfantasticity.com/en/category/traveller-essentials?id=1163)
+
+
+  1. [Tri thức dân gian](https://danangfantasticity.com/en/category/tri-thuc-dan-gian?id=14285)
+>
+  2. Tri thức dân gian Mì Quảng
+
+
+# Tri thức dân gian Mì Quảng
+###### 24/10/2025
+Share
+Add to Favorites
+Print
+> _Mì Quảng không chỉ đơn thuần là một món ăn mà còn là giá trị văn hóa ẩm thực đặc trưng, hàm chứa cả diễn trình lịch sử hình thành, hệ tri thức dân gian của thành phố Đà Nẵng._
+![tri_thức_dân_gian_mì_quảng_1](https://danangfantasticity.com/wp-content/uploads/2025/10/tri_thuc_dan_gian_mi_quang_1-1-1024x576.jpg)
+**NGUỒN GỐC VÀ QUÁ TRÌNH PHÁT TRIỂN**
+[Mì Quảng](https://danangfantasticity.com/am-thuc-dia-phuong/mi-quang) ra đời từ rất lâu, gắn liền với dòng chảy lịch sử mở cõi về phương Nam của dân tộc Việt. Dù không có tư liệu thành văn xác định chính xác thời điểm xuất hiện, nhưng qua dấu tích văn hóa ẩm thực và những dụng cụ truyền thống như cối đá xay bột gạo, nồi đất, rổ tre… vẫn còn lưu giữ trong đời sống dân gian, có thể khẳng định rằng mì Quảng đã đồng hành cùng cư dân vùng Quảng – Đà từ hàng trăm năm trước.
+Theo truyền khẩu và nhiều ghi chép dân gian, làng Phú Chiêm (nay thuộc phường Điện Bàn, thành phố Đà Nẵng) được xem là cái nôi của mì Quảng. Từ hàng trăm năm nay, nơi đây nổi danh với thương hiệu “Mì Quảng Phú Chiêm” trứ danh, là nơi còn lưu giữ nghề làm mì thủ công theo phương pháp cổ truyền bằng thủ công, tạo nên sợi mì mềm dai, dẻo mà vẫn giữ được hương gạo tự nhiên.
+Suốt chiều dài lịch sử phát triển của vùng đất, tô mì Quảng như một phần không thể thiếu của đời sống cộng đồng, hiện diện từ bữa cơm dân dã ngày thường đến các lễ Tết, cúng giỗ, sự kiện trọng đại, từ thành thị đến nông thôn, từ các gánh hàng rong dung dị đến những nhà hàng sang trọng. Hiện nay, mì Quảng đã vượt ra khỏi phạm vi địa lý của riêng Đà Nẵng để có mặt tại hầu hết các tỉnh, thành trong cả nước và một số quốc gia trên thế giới, trở thành món ăn quen thuộc trên bản đồ ẩm thực Việt.
+**TRI THỨC VỀ CHẾ BIẾN M****Ì QUẢNG**
+Nguyên liệu chính để làm nên món mì Quảng là bột gạo nước. Gạo được tráng mì là gạo không dẻo. Vuốt gạo sạch xong, ngâm trong nước đủ giờ cho gạo mềm ra rồi đem xay nhuyễn bằng cối đá hoặc máy xay. Bột gạo này phải hòa đều với nước theo một tỷ lệ nhất định để làm sao khi tráng lá mì không ướt quá, cũng không khô quá. Không có một công thức chung cho việc gia, giảm lượng nước pha bột để tráng mà thuộc về tay nghề “bí truyền” của mỗi gia đình.
+Khâu tráng bánh quyết định chất lượng sợi mì, người tráng khuấy bột đều bằng chính chiếc gáo lường làm bằng nửa sọ dừa, đít mài nhẵn bóng, có dùi lỗ tra cán tre thật khít, múc bột đổ lên khuôn, láng đều và đậy nắp, vài phút cho bánh chín bằng hơi. Bánh chín, dỡ nắp, dùng thanh tre vót dẹp bản rộng xuyên qua giữa lớp vải khuôn với lớp bánh và vớt bánh bày trên vỉ, chồng lên liên tục cho đến khi hết thau bột. Để những sợi mì không dính, phải dùng dầu phụng phi với củ nén đập dập chín thơm thoa lên bề mặt bánh. Hiện nay, nhiều hộ gia đình ở Đà Nẵng vẫn duy trì cách tráng mì thủ công này để giữ hương vị đặc trưng, không bị bở nát khi trụng nước sôi, khác hẳn sợi mì làm bằng máy công nghiệp.
+Sợi mì Quảng không xắt nhỏ như sợi bún hay sợi cao lầu. Bề bản của nó phải cỡ 1 centimet. Ngày nay người ta đã biết dùng máy để rút ngắn thời gian xắt và làm sợi mì đều hơn.
+Yếu tố quyết định tạo nên linh hồn tô Mì Quảng là nhưn. Nhưn của mì Quảng đa dạng, nhiều biến tấu bởi người Đà Nẵng có món gì thì cứ nấu ra thứ nhưn ấy, tùy loại thực phẩm có sẵn mà người nấu có thể thoải mái chế biến chứ không phụ thuộc vào bất cứ nguyên tắc cố định nào. Phổ biến nhất là nhưn thịt heo ba chỉ thái mỏng nấu cùng tôm đồng (tôm đất) và trứng cút, hoặc nhân gà quê chặt miếng, hay nhân cá lóc đồng… Ngoài ra tuỳ mỗi vùng, người dân lại có cách biến tấu riêng như: vùng đồng bằng ven biển thường chuộng tôm, cá; vùng trung du, miền núi lại hay dùng cua đồng, lươn, cá suối, ếch đồng… Dù là nhưn gì, mì Quảng đúng vị thì nguyên liệu chính phải được phi thơm với nén, nghệ cho dậy mùi rồi đổ nước vào rim nhỏ lửa, nếm vào đậm đà vừa miệng, để khi trộn cùng mì và rau sẽ tạo nên tổng hòa hương vị hài hòa.
+Tại các nhà hàng, cơ sở kinh doanh du lịch các đầu bếp đã kết hợp giữa việc giữ gìn hương vị truyền thống và nâng cao chất lượng, sáng tạo bằng việc đa dạng hóa nhưn mì với nguyên liệu cao cấp (tôm hùm, tôm càng xanh, ếch, cá chình…) để phục vụ đa dạng thực khách, quảng bá văn hóa ẩm thực Đà Nẵng đến bạn bè quốc tế.
+![tri_thức_dân_gian_mì_quảng_2](https://danangfantasticity.com/wp-content/uploads/2025/10/tri_thuc_dan_gian_mi_quang_2-1-1024x576.jpg) ![](https://danangfantasticity.com/wp-content/uploads/2025/10/Di-tich-dia-dao-Ky-Anh-thanh-pho-Tam-Ky-Bui-Viet-Ha-1-1024x576.jpg) ![](https://danangfantasticity.com/wp-content/uploads/2025/10/z7149588339408_5a49c9a0a35e63a55fb56baca9d0b2cf-1024x683.jpg)
+Rau sống cũng là nguyên liệu không thể thiếu của mì Quảng. Người Đà Nẵng thường dùng rau trong vườn nhà với các loại rau phổ biến như: rau quế, cải non, xà lách, rau mùi, ngò gai, tía tô, bắp chuối, rau muống chẻ, giá đỗ… Đặc biệt ở Hội An có rau sống Trà Quế nổi tiếng mùi thơm đặc trưng, góp phần làm nên vị riêng cho tô mì phố Hội. Kế đến là bánh tráng nướng (bánh đa) nướng giòn, thường là loại bánh tráng gạo dày có rắc mè đen. Miếng bánh tráng bẻ nhỏ thả vào tô mì tạo nên tiếng “rộp rộp” vui tai khi ăn cùng mì. Trên mặt tô mì bao giờ cũng rắc một nắm đậu phộng rang vàng ruộm, bùi béo, và vài lát hành lá, ngò rí thái nhỏ tăng mùi thơm. Một trái ớt xanh tươi hoặc ớt đỏ xắt lát được dọn kèm để thực khách điều chỉnh độ cay theo ý thích – vị cay nồng của ớt xanh chính là “đặc sản” khiến ai ăn cũng phải xuýt xoa hít hà. Tất cả những thành phần đó hòa quyện tạo nên bản hòa ca hương vị mì Quảng: có béo, bùi, thơm, cay, chua, giòn, dai, mềm… đủ đầy.
+**GIÁ TRỊ ĐẶC TRƯNG**
+Tri thức dân gian mì Quảng phản ánh rõ nét tính cách, hồn cốt con người Đà Nẵng, từ tinh thần cần cù khai phá, tính cách bộc trực dí dỏm, đến sự linh hoạt, sáng tạo để thích nghi với hoàn cảnh. Qua thời gian, mì Quảng mang trong mình niềm tự hào, biểu tượng văn hóa của một vùng đất, là cái “hồn” nghệ thuật ẩm thực của thành phố Đà Nẵng. Món ăn này xuất hiện trong ca dao, thi ca, trở thành hình ảnh gợi nhớ quê hương thân thuộc. Nhiều văn nghệ sĩ tài danh cũng đã tìm thấy cảm hứng từ tô mì Quảng đậm đà để sáng tác nên tác phẩm thơ ca, âm nhạc chan chứa tình yêu quê hương, đất nước.
+Đặc biệt, mì Quảng còn được nâng tầm thành “đại sứ ẩm thực” của Đà Nẵng khi xuất hiện trong các sự kiện ngoại giao và lễ hội văn hóa, đại diện cho tinh hoa văn hóa ẩm thực địa phương trước bạn bè trong nước và quốc tế.
+**HOẠT ĐỘNG TRẢI NGHIỆM**
+Với du khách, mì Quảng không chỉ là món ăn để thưởng thức mà còn là một trải nghiệm văn hóa hấp dẫn. Nhiều tour du lịch và cơ sở kinh doanh dịch vụ đã đưa mì Quảng vào danh sách những món ăn không thể thiếu để chiêu đãi du khách, như một điểm nhấn không thể thiếu. Du khách có thể tham gia những lớp học nấu ăn giới thiệu về mì Quảng, được tận tay tập xay bột, tráng mì và thưởng thức tô mì nóng hổi do chính tay mình làm ra. Những trải nghiệm này không chỉ thỏa mãn khẩu vị, mà còn tạo sự gắn kết gần gũi giữa du khách với văn hóa bản địa, để lại ấn tượng sâu đậm về thành phố Đà Nẵng.
+Du khách có thể ghé thăm làng Phú Chiêm (phường Điện Bàn) để cảm nhận không khí làng nghề mì Quảng truyền thống vẫn được gìn giữ qua bao thế hệ. Tại đây, du khách sẽ được tham quan các lò tráng mì thủ công, lắng nghe những nghệ nhân kể chuyện về nghề xưa, và đặc biệt là thưởng thức tô mì Quảng Phú Chiêm “nguyên bản” với nước nhưn tôm, thịt, cua đồng đậm đà hương vị quê nhà. Bên cạnh đó, du khách cũng có thể tham gia các lễ hội truyền thống và sự kiện giao lưu văn hóa – du lịch tại địa phương, nơi những tô mì vàng óng, dậy hương thơm đặc trưng luôn là điểm nhấn hấp dẫn, thu hút đông đảo du khách đến thưởng thức và trải nghiệm tinh hoa ẩm thực xứ Quảng.
+**_Tri thức dân gian mì Quảng được Bộ Văn hoá, Thể thao và Du lịch công nhận là Di sản văn hóa phi vật thể quốc gia theo Quyết định số 2327/QĐ-BVHTTDL ngày 09/8/2024, khẳng định vị thế đặc biệt của mì Quảng trong kho tàng tri thức dân gian Việt Nam._**
+**TRUNG TÂM XÚC TIẾN DU LỊCH TP. ĐÀ NẴNG**
+##### Explore
+  * ![Tri thức dân gian Mì Quảng](https://danangfantasticity.com/wp-content/uploads/2025/10/tri_thuc_dan_gian_mi_quang_1-1-1024x576.jpg)
+###### [Tri thức dân gian Mì Quảng Tri thức dân gian mì Quảng được Bộ Văn hoá, Thể thao và Du lịch công nhận là Di sản văn hóa phi vật thể quốc gia theo Quyết định số 2327/...](https://danangfantasticity.com/en/tri-thuc-dan-gian/tri-thuc-dan-gian-mi-quang)
+  * ![Tri thức dân gian về Sâm Ngọc Linh](https://danangfantasticity.com/wp-content/uploads/2025/10/tri-thuc-dan-gian-ve-sam-ngoc-linh.jpg)
+###### [Tri thức dân gian về Sâm Ngọc Linh Tri thức dân gian về Sâm ngọc Linh được Bộ Văn hoá, Thể thao và Du lịch công nhận là Di sản văn hóa phi vật thể quốc gia.](https://danangfantasticity.com/en/tri-thuc-dan-gian/tri-thuc-dan-gian-ve-sam-ngoc-linh)
+
+
+Comment (0)
+Please [Login](https://danangfantasticity.com/en/tri-thuc-dan-gian/tri-thuc-dan-gian-mi-quang) to comment
+  *     * ##### Danangfantasticity.com
+    * [About Da Nang](https://danangfantasticity.com/en/category/about-da-nang?id=147)
+    * [See & Do](https://danangfantasticity.com/en/category/see-do?id=13046)
+    * [Festivals & Events](https://danangfantasticity.com/en/category/festivals-events?id=13106)
+    * [Eat & Drink](https://danangfantasticity.com/en/category/eat-drink?id=13114)
+    * [Shopping](https://danangfantasticity.com/en/category/shopping?id=13124)
+    * [Explore](https://danangfantasticity.com/en/category/explore?id=171)
+    * [Stay](https://danangfantasticity.com/en/category/stay?id=82)
+    * [Promotion](https://danangfantasticity.com/en/category/promotion?id=177)
+    * [News](https://danangfantasticity.com/en/category/news?id=169)
+    * [Traveller Essentials](https://danangfantasticity.com/en/category/traveller-essentials?id=1163)
+  *     * ##### Related websites
+    * [Enjoy Da Nang](https://danangfantasticity.com/en/tri-thuc-dan-gian/tri-thuc-dan-gian-mi-quang)
+    * [Da Nang City's Electronic Information Portal](https://danangfantasticity.com/en/tri-thuc-dan-gian/tri-thuc-dan-gian-mi-quang)
+    * * * *
+    * ##### Hotline for tourists
+    * Da Nang Tourist Support Center
+    * HOTLINE: (+84)236 3 550 111 | (+84)236 3 1022
+  *     * ##### About us
+    * Copyright © People’s Committee of Da Nang City Department of Culture, Sports, and Tourism of Da Nang Managed by Danang Tourism Promotion Center
+    * Tel: (84.236) 3.898.196 
+Fax: (84.236) 3.812.029
+    * Contact Us: media@danangfantasticity.com
+    * License: 705/GP-STTTT dated July 18, 2024 of the City Department of Information and Communications. Da Nang
+  *     * ##### Connect with us
+    * [](https://www.facebook.com/visitdanang)[](https://twitter.com/visit_danang)[](https://www.instagram.com/danang_fantasticity/)[](https://www.youtube.com/channel/UCbU4vD3PB8XGhxLF3hxhyTg)[](https://www.tiktok.com/@danangfantasic)
+
+
+###### Quick links
+  * [Essential travel information](https://danangfantasticity.com/en/tri-thuc-dan-gian/tri-thuc-dan-gian-mi-quang)
+  * [Tour itinerary](https://danangfantasticity.com/en/tri-thuc-dan-gian/tri-thuc-dan-gian-mi-quang)
+  * [Walking route](https://danangfantasticity.com/en/tri-thuc-dan-gian/tri-thuc-dan-gian-mi-quang)
+  * [Essential travel information](https://danangfantasticity.com/en/tri-thuc-dan-gian/tri-thuc-dan-gian-mi-quang)
+  * ###### Connect with us
+[](https://www.facebook.com/visitdanang)[](https://twitter.com/visit_danang)[](https://www.instagram.com/danang_fantasticity/)[](https://www.youtube.com/channel/UCbU4vD3PB8XGhxLF3hxhyTg)[](https://www.tiktok.com/@danangfantasic)
+
+
+Copyright © ##year## Da Nang City People's Committee, Department of Tourism, Managed by Da Nang Tourism Promotion Center.| [Terms of Use](https://danangfantasticity.com/en/tri-thuc-dan-gian/tri-thuc-dan-gian-mi-quang) | [Security Commitment](https://danangfantasticity.com/en/tri-thuc-dan-gian/tri-thuc-dan-gian-mi-quang) | [Report Security Vulnerabilities](https://danangfantasticity.com/en/tri-thuc-dan-gian/tri-thuc-dan-gian-mi-quang)
+[Site Map](https://danangfantasticity.com/en/tri-thuc-dan-gian/tri-thuc-dan-gian-mi-quang) | [Contact Us](https://danangfantasticity.com/en/tri-thuc-dan-gian/tri-thuc-dan-gian-mi-quang)
+###### [DaNangFantasic.com](https://danangfantasticity.com/en/tri-thuc-dan-gian/tri-thuc-dan-gian-mi-quang)
+  * [About Da Nang](https://danangfantasticity.com/en/category/about-da-nang?id=147)
+  * [See & Do](https://danangfantasticity.com/en/category/see-do?id=13046)
+  * [Festivals & Events](https://danangfantasticity.com/en/category/festivals-events?id=13106)
+  * [Eat & Drink](https://danangfantasticity.com/en/category/eat-drink?id=13114)
+  * [Shopping](https://danangfantasticity.com/en/category/shopping?id=13124)
+  * [Explore](https://danangfantasticity.com/en/category/explore?id=171)
+  * [Stay](https://danangfantasticity.com/en/category/stay?id=82)
+  * [Promotion](https://danangfantasticity.com/en/category/promotion?id=177)
+  * [News](https://danangfantasticity.com/en/category/news?id=169)
+  * [Traveller Essentials](https://danangfantasticity.com/en/category/traveller-essentials?id=1163)
+
+
+###### [Related websites](https://danangfantasticity.com/en/tri-thuc-dan-gian/tri-thuc-dan-gian-mi-quang)
+  * [Enjoy Da Nang](https://danangfantasticity.com/en/tri-thuc-dan-gian/tri-thuc-dan-gian-mi-quang)
+  * [Da Nang City's Electronic Information Portal](http://danang.gov.vn/)
+
+
+Copyright © ##year## Da Nang City People's Committee, Department of Tourism, Managed by Da Nang Tourism Promotion Center.
+License: 705/GP-STTTT dated July 18, 2024 of the City Department of Information and Communications. Da Nang
+Tri thức dân gian Mì Quảng - Danang Fantasticity - Da Nang City Tourism Information Portal
