@@ -1,5 +1,15 @@
 # Kết quả đánh giá RAG du lịch Đà Nẵng
 
+> **Trạng thái bàn giao:** Pipeline, contract tests, acceptance tests và UI demo đã chạy được. Các điểm A/B của bốn metric generation chưa được điền vì môi trường bàn giao chưa có LLM provider/model; báo cáo giữ nguyên trạng thái chưa đo để tránh tạo số liệu không có bằng chứng.
+
+## Tóm tắt cho demo
+
+- **Corpus:** 44 tài liệu Markdown du lịch/pháp lý Đà Nẵng, embedding `BAAI/bge-m3`.
+- **Retrieval:** dense-only cho Config A; dense + BM25 + RRF cho Config B; `top_k=5`.
+- **Generation:** prompt grounded, citation `[C1]...`, safe refusal khi thiếu evidence hoặc provider lỗi.
+- **Đã kiểm chứng:** `27 passed` bằng `.venv`; Streamlit khởi động thành công ở cổng demo cục bộ.
+- **Cần chạy bổ sung:** cấu hình `.env` cục bộ rồi chạy cùng golden set 15 câu để lấy faithfulness, answer relevance, context recall và context precision.
+
 ## Overall scores
 
 ### Run information
