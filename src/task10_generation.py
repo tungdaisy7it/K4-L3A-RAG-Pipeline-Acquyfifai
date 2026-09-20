@@ -122,7 +122,13 @@ def _retrieval_source(chunks: list[dict]) -> str:
 
 def generate_with_citation(query: str, top_k: int = TOP_K) -> dict:
     """Retrieve evidence, generate a grounded answer, and return its sources."""
-    if not isinstance(query, str) or not query.strip() or not isinstance(top_k, int) or top_k <= 0:
+    if (
+        not isinstance(query, str)
+        or not query.strip()
+        or not isinstance(top_k, int)
+        or isinstance(top_k, bool)
+        or top_k <= 0
+    ):
         return {"answer": SAFE_REFUSAL, "sources": [], "retrieval_source": "none"}
     try:
         chunks = retrieve(query, top_k=top_k)

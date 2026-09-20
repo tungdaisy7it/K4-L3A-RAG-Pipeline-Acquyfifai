@@ -11,14 +11,17 @@ Mỗi document/chunk phải theo docs/MODULE_CONTRACTS.md. ID cần ổn định
 chạy lại pipeline không tạo dữ liệu trùng. Task 5 phải dùng chung embed_texts().
 """
 
-import json
+import os
 import re
 import sys
 from pathlib import Path
 
-import chromadb
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-from sentence_transformers import SentenceTransformer
+from dotenv import load_dotenv
+
+# chromadb, sentence-transformers and langchain-text-splitters are imported
+# lazily inside the functions that need them. Task 5/6/9/10 import this module
+# only for embed_texts/get_collection/chunk_documents, so a contract test run
+# must not have to load the whole embedding stack first.
 
 # Fix Windows cp1252 console encoding
 if sys.stdout.encoding != "utf-8":
@@ -35,7 +38,10 @@ CHUNK_SIZE = 500
 CHUNK_OVERLAP = 50
 CHUNKING_METHOD = "recursive"
 
-EMBEDDING_MODEL = "BAAI/bge-m3"
+load_dotenv(override=False)
+
+# Keep this in sync with .env: Task 4 and Task 5 must share one embedding model.
+EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "").strip() or "BAAI/bge-m3"
 EMBEDDING_DIM = 1024
 
 COLLECTION_NAME = "rag_documents"
@@ -48,10 +54,12 @@ UPSERT_BATCH_SIZE = 5000
 _model_cache = None
 
 
-def _get_model() -> SentenceTransformer:
+def _get_model():
     """Load and cache the embedding model (singleton)."""
     global _model_cache
     if _model_cache is None:
+        from sentence_transformers import SentenceTransformer
+
         print(f"Loading embedding model: {EMBEDDING_MODEL} ...")
         _model_cache = SentenceTransformer(EMBEDDING_MODEL)
     return _model_cache
@@ -74,6 +82,8 @@ def embed_texts(texts: list[str]) -> list[list[float]]:
 
 def get_collection():
     """Mở Chroma collection dùng cosine distance."""
+    import chromadb
+
     CHROMA_DIR.mkdir(parents=True, exist_ok=True)
     client = chromadb.PersistentClient(path=str(CHROMA_DIR))
     return client.get_or_create_collection(
@@ -138,6 +148,8 @@ def load_documents() -> list[dict]:
 
 def chunk_documents(documents: list[dict]) -> list[dict]:
     """Chia Document thành chunks có id và chunk_index."""
+    from langchain_text_splitters import RecursiveCharacterTextSplitter
+
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=CHUNK_SIZE,
         chunk_overlap=CHUNK_OVERLAP,

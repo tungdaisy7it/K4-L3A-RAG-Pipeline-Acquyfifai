@@ -44,7 +44,7 @@ pytest tests/test_acceptance.py -q
 pytest -q
 ```
 
-Golden set có 15 case tại `group_project/evaluation/golden_dataset.json`. Báo cáo A/B dense-only và hybrid + RRF nằm tại `group_project/evaluation/RESULT.md`. Chỉ điền điểm metric sau khi chạy thật với cùng model, prompt, dataset và `top_k`; không dùng số ước đoán.
+Báo cáo cá nhân nằm tại `group_project/individual/<mã-học-viên>-<tên>.md`, theo template `reports/INDIVIDUAL_REPORT.md`. Golden set có 15 case tại `group_project/evaluation/golden_dataset.json`. Báo cáo A/B dense-only và hybrid + RRF nằm tại `group_project/evaluation/RESULT.md`. Chỉ điền điểm metric sau khi chạy thật với cùng model, prompt, dataset và `top_k`; không dùng số ước đoán.
 
 ## Demo tối thiểu
 

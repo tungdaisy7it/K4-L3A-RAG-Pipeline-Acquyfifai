@@ -1,14 +1,34 @@
 """Task 9 -- dense/BM25/RRF retrieval with PageIndex fallback."""
 
+import os
+
+from dotenv import load_dotenv
+
 from .task5_semantic_search import semantic_search
 from .task6_lexical_search import lexical_search
 from .task7_reranking import rerank_rrf
 from .task8_pageindex_vectorless import pageindex_search
 
 
+load_dotenv(override=False)
+
 # Calibrated on the Da Nang tourism corpus; see the individual report.
-SCORE_THRESHOLD = 0.61
+DEFAULT_SCORE_THRESHOLD = 0.61
 DEFAULT_TOP_K = 5
+
+
+def _configured_threshold() -> float:
+    """Read SCORE_THRESHOLD from .env, ignoring empty or malformed values."""
+    raw = os.getenv("SCORE_THRESHOLD", "").strip()
+    if not raw:
+        return DEFAULT_SCORE_THRESHOLD
+    try:
+        return float(raw)
+    except ValueError:
+        return DEFAULT_SCORE_THRESHOLD
+
+
+SCORE_THRESHOLD = _configured_threshold()
 
 
 def retrieve(

@@ -30,7 +30,7 @@ DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "legal"
 # Script nay ho tro tai tu dong neu file chua co
 LEGAL_SOURCES = {
     # Quyet dinh phe duyet de an phat trien du lich Da Nang
-    "2298-qd-signed.pdf": {
+    "2298 qd.signed (1).pdf": {
         "description": "Quyet dinh 2298/QD-UBND phe duyet de an phat trien du lich Da Nang",
         "manual": True,  # File da duoc tai thu cong
     },
@@ -40,17 +40,17 @@ LEGAL_SOURCES = {
         "manual": True,
     },
     # Van ban bai bao nghien cuu ve du lich Da Nang
-    "2112-van-ban-bai-bao-du-lich.pdf": {
+    "2112-Văn bản của bài báo-7121-1-10-20210827.pdf": {
         "description": "Van ban nghien cuu ve phat trien du lich Da Nang",
         "manual": True,
     },
     # Du thao to trinh ban hanh quy dinh du lich
-    "du-thao-to-trinh-ban-hanh-quy-dinh.pdf": {
+    "Du thao_24 -11 -2025 To trinh de nghi Ban hanh Quy dinh.pdf": {
         "description": "Du thao to trinh de nghi ban hanh quy dinh du lich",
         "manual": True,
     },
     # Du thao quyet dinh thuc hien thong tu 13
-    "du-thao-quyet-dinh-thuc-hien-TT13.pdf": {
+    "Du thao_28 11 2025 -Quyet dinh thuc hien TT13 -lay y kien-.pdf": {
         "description": "Du thao quyet dinh thuc hien Thong tu 13 ve du lich",
         "manual": True,
     },
@@ -72,6 +72,9 @@ def setup_directory() -> None:
 def check_existing_files() -> list[Path]:
     """Kiem tra cac file PDF/DOCX da co trong thu muc."""
     existing = []
+    if not DATA_DIR.is_dir():
+        print(f"  [WARN] Directory not found: {DATA_DIR}")
+        return existing
     for path in sorted(DATA_DIR.iterdir()):
         if path.suffix.lower() in {".pdf", ".doc", ".docx"}:
             size_kb = path.stat().st_size / 1024
@@ -102,6 +105,13 @@ def download_document(filename: str, url: str, timeout: int = 30) -> bool:
 
         if len(response.content) < 1024:
             print(f"  [WARN] Downloaded file too small: {filename} ({len(response.content)} bytes)")
+            return False
+
+        # Public portals often answer with an HTML landing page instead of the
+        # file. Saving that as .pdf would poison Task 3 conversion silently.
+        if filename.lower().endswith(".pdf") and not response.content.startswith(b"%PDF"):
+            content_type = response.headers.get("Content-Type", "unknown")
+            print(f"  [FAIL] Not a PDF: {filename} (Content-Type: {content_type})")
             return False
 
         output_path.write_bytes(response.content)
@@ -135,7 +145,7 @@ def download_documents() -> None:
 
     # Kiem tra lai
     final_count = len([
-        p for p in DATA_DIR.iterdir()
+        p for p in (sorted(DATA_DIR.iterdir()) if DATA_DIR.is_dir() else [])
         if p.suffix.lower() in {".pdf", ".doc", ".docx"} and p.stat().st_size > 1024
     ])
     print(f"\nTong cong: {final_count} tai lieu hop le trong {DATA_DIR}")
