@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Bán đảo Sơn Trà nằm ở đâu và có giá trị gì đối với du lịch Đà Nẵng?",
+    "expected_answer": "Bán đảo Sơn Trà là điểm đến tự nhiên nổi bật của Đà Nẵng; câu trả lời cần giữ đúng mô tả và địa danh trong bài về Son Tra Peninsula.",
+    "expected_context": "article_01_en-son-tra-peninsula.md — tiêu đề và các đoạn mô tả vị trí, cảnh quan, trải nghiệm của Son Tra Peninsula."
+  },
+  {
+    "question": "Ngũ Hành Sơn gồm những điểm tham quan nào?",
+    "expected_answer": "Trả lời bằng danh sách các điểm được bài Ngũ Hành Sơn trong corpus nêu rõ, không bổ sung địa danh ngoài bài.",
+    "expected_context": "article_02_en-culture-en-marble-mountains.md và article_16_en-kham-pha-danh-thang-ngu-hanh-son-da-nang.md — phần mô tả Marble Mountains/Ngũ Hành Sơn."
+  },
+  {
+    "question": "Bãi biển Mỹ Khê có đặc điểm nổi bật gì?",
+    "expected_answer": "Mỹ Khê được corpus giới thiệu là một bãi biển nổi bật của Đà Nẵng; nêu đúng các đặc điểm được bài nguồn cung cấp.",
+    "expected_context": "article_03_en-discovery-my-khe-beach-one-of-the-ten-most-beautiful-beaches-in-asia.md — nội dung về My Khe Beach."
+  },
+  {
+    "question": "Cầu Rồng ở Đà Nẵng có gì đặc biệt?",
+    "expected_answer": "Cầu Rồng là điểm tham quan và biểu tượng được bài Dragon Bridge trong corpus mô tả; chỉ nêu các đặc điểm có trong nguồn.",
+    "expected_context": "article_04_en-dragon-bridge.md — tiêu đề và phần giới thiệu Dragon Bridge."
+  },
+  {
+    "question": "Chùa Linh Ứng được giới thiệu như thế nào trong corpus?",
+    "expected_answer": "Mô tả Chùa Linh Ứng theo bài nguồn, gồm vị trí/không gian/điểm nổi bật nếu được đoạn truy hồi dẫn chứng.",
+    "expected_context": "article_05_en-linh-ung-pagoda.md — bài Linh Ung Pagoda trên Danang Fantasticity."
+  },
+  {
+    "question": "Bảo tàng Điêu khắc Chăm Đà Nẵng nói về nội dung gì?",
+    "expected_answer": "Bài nguồn giới thiệu Da Nang Museum of Cham Sculpture và nội dung văn hóa Chăm được trưng bày theo những gì corpus ghi nhận.",
+    "expected_context": "article_06_en-overview-da-nang-museum-of-cham-sculpture.md — phần Overview Da Nang Museum of Cham Sculpture."
+  },
+  {
+    "question": "Hải Vân Quan/Hải Vân Pass phù hợp với loại trải nghiệm nào?",
+    "expected_answer": "Nêu trải nghiệm và cảnh quan của Hải Vân Pass theo bài nguồn, không suy đoán thêm về thời tiết hay giao thông.",
+    "expected_context": "article_08_en-tag-hai-van-pass.md — bài/tag Hai Van Pass trong corpus."
+  },
+  {
+    "question": "Bài nguồn có đề cập chương trình mùa hè 2026 ở Bà Nà Hills không?",
+    "expected_answer": "Có; corpus có bài ‘Summer 2026: Open the Gates to Ba Na and Discover Four Magical Worlds’, và câu trả lời phải trích đúng chi tiết trong bài.",
+    "expected_context": "article_09_en-summer-2026-open-the-gates-to-ba-na-and-discover-four-magical-worlds.md — bài về chương trình mùa hè 2026 ở Ba Na."
+  },
+  {
+    "question": "Lịch trình Đà Nẵng 3 ngày 2 đêm trong corpus gồm các gợi ý nào?",
+    "expected_answer": "Tóm tắt các ngày/điểm đến được bài lịch trình 3 ngày 2 đêm nêu rõ; không tự thêm lịch mở cửa hoặc chi phí.",
+    "expected_context": "article_21_vi-vn-explore-destination-du-lich-da-nang-3-ngay-2-dem-145822.md — bài Traveloka về lịch trình 3 ngày 2 đêm."
+  },
+  {
+    "question": "Đặc sản mì Quảng Đà Nẵng được corpus giới thiệu ra sao?",
+    "expected_answer": "Mô tả mì Quảng theo bài về tinh hoa ẩm thực Đà Nẵng và chỉ sử dụng nguyên liệu/đặc điểm được bài nêu.",
+    "expected_context": "article_25_tinh-hoa-am-thuc-da-nang-mi-quang.md — bài Tinh hoa ẩm thực Đà Nẵng: mì Quảng."
+  },
+  {
+    "question": "Ẩm thực địa phương Đà Nẵng có những nhóm món nào theo tài liệu?",
+    "expected_answer": "Tổng hợp các nhóm món được các bài ẩm thực trong corpus nêu; mỗi nhóm phải gắn citation về đoạn nguồn tương ứng.",
+    "expected_context": "article_25_tinh-hoa-am-thuc-da-nang-mi-quang.md, article_26_en-am-thuc-dia-phuong-banh-trang-cuon...md và article_31_en-an-uong-am-thuc-dia-phuong-trong-...md."
+  },
+  {
+    "question": "My Son Sanctuary được gọi chính xác bằng tên gì trong bài tiếng Anh?",
+    "expected_answer": "Tên riêng cần giữ là ‘My Son Sanctuary’, đúng theo tiêu đề bài nguồn.",
+    "expected_context": "article_07_en-see-and-do-my-son-sanctuary.md — tiêu đề My Son Sanctuary."
+  },
+  {
+    "question": "Quyết định 2298/QĐ-UBND trong corpus thuộc nhóm tài liệu nào?",
+    "expected_answer": "Đây là tài liệu pháp lý/quyết định trong thư mục legal; chỉ mô tả nội dung khi chunk truy hồi chứa điều khoản liên quan.",
+    "expected_context": "data/standardized/legal/2298 qd.signed (1).md — tài liệu có tên 2298/QĐ và phần đầu văn bản hành chính."
+  },
+  {
+    "question": "Tài liệu về bán đảo Sơn Trà đề cập những vấn đề nào cần tra cứu chính xác?",
+    "expected_answer": "Trả lời theo các mục/vấn đề có trong bảng tổng hợp của tài liệu Sơn Trà; không biến tài liệu này thành quy định mới.",
+    "expected_context": "data/standardized/legal/110517_cacvande_SonTra.md — ‘Bảng tổng hợp các vấn đề liên quan đến bán đảo Sơn Trà’."
+  },
+  {
+    "question": "Hãy gợi ý một ngày tham quan kết hợp Ngũ Hành Sơn, Cầu Rồng và ẩm thực Đà Nẵng chỉ từ corpus.",
+    "expected_answer": "Có thể ghép các điểm được corpus mô tả thành một gợi ý khái quát, nhưng phải nói rõ đây là tổng hợp từ các nguồn và không tự khẳng định giờ mở cửa hay thời lượng.",
+    "expected_context": "article_02_en-culture-en-marble-mountains.md, article_04_en-dragon-bridge.md và article_25_tinh-hoa-am-thuc-da-nang-mi-quang.md — ba nguồn cho địa điểm và ẩm thực."
+  }
+]

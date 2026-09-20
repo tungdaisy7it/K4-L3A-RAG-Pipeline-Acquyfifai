@@ -1,84 +1,59 @@
-# Day 8 — RAG Pipeline
+# Chatbot RAG du lịch Đà Nẵng
 
-## Mục tiêu
+Dự án xây dựng trợ lý hỏi đáp về du lịch Đà Nẵng. Corpus gồm tài liệu pháp lý/quy hoạch trong `data/standardized/legal/` và bài giới thiệu địa điểm, lịch trình, văn hóa, ẩm thực trong `data/standardized/news/`. Mỗi câu trả lời có thể truy ngược về chunk, tiêu đề, source và URL.
 
-Mỗi nhóm xây dựng một chatbot RAG trả lời câu hỏi từ bộ tài liệu do nhóm thu thập. Sản phẩm phải có hybrid retrieval, citation, giao diện chat và báo cáo đánh giá.
-
-Nhóm tự chọn bài toán và thu thập dữ liệu phù hợp; repo không cung cấp dữ liệu mẫu.
-
-## Sản phẩm phải nộp
-
-- Repository nhóm chạy được.
-- Tối thiểu 3 tài liệu chính sách và 5 bài viết/page do nhóm tự thu thập.
-- Pipeline: convert → chunk → index → dense + BM25 → RRF → fallback → generation có citation.
-- Chatbot Streamlit hiển thị câu trả lời và nguồn đã dùng.
-- Golden dataset tối thiểu 15 câu; đánh giá 4 metric và so sánh A/B.
-- `group_project/evaluation/RESULT.md`.
-- Mỗi thành viên nộp báo cáo cá nhân theo template trong `group_project/ịndividual/INDIVIDUAL_REPORT.md`.
-
-## Quick start
+## Cài đặt
 
 ```bash
 python -m venv .venv
-source .venv/bin/activate       # Windows: .venv\Scripts\activate
-python -m pip install --upgrade pip setuptools wheel
+.\.venv\Scripts\activate       # Windows
 python -m pip install -e ".[dev]"
-python -m playwright install chromium
-cp .env.example .env
+copy .env.example .env
 ```
 
-Điền API key cần dùng trong `.env`; không commit file này.
+Điền cấu hình cục bộ trong `.env`:
+
+```dotenv
+LLM_PROVIDER=openai
+LLM_MODEL=<model-name>
+OPENAI_API_KEY=<local-secret>
+EMBEDDING_PROVIDER=sentence_transformers
+EMBEDDING_MODEL=BAAI/bge-m3
+SCORE_THRESHOLD=0.61
+```
+
+Có thể thay `LLM_PROVIDER` bằng `gemini` hoặc `anthropic`, với key tương ứng. Không đưa API key vào README, git hoặc log.
+
+## Chạy pipeline
 
 ```bash
-# 1. Thu thập và chuẩn hoá
 python -m src.task1_collect_legal_docs
 python -m src.task2_crawl_news
 python -m src.task3_convert_markdown
-
-# 2. Index và kiểm tra contract
 python -m src.task4_chunking_indexing
-pytest -q
-
-# 3. Chạy sản phẩm
 streamlit run app.py
 ```
 
-## Lộ trình 3 giờ
+Retrieval dùng dense search, BM25 và RRF; fallback PageIndex là tùy chọn. Generation dùng `src/task10_generation.py`, reorder chunk không làm đổi ID, format context có nhãn `[C1]`, `[C2]` và prompt yêu cầu chỉ dùng evidence.
 
-| Mốc                  | Thời gian | Kết quả cần có                           |
-| -------------------- | --------: | ---------------------------------------- |
-| 0. Setup             |   10 phút | Môi trường và `.env` sẵn sàng            |
-| 1. Data              |   25 phút | ≥3 legal, ≥5 news, Markdown đã chuẩn hoá |
-| 2. Index & search    |   30 phút | ChromaDB, dense search và BM25 chạy được |
-| 3. Fusion & fallback |   25 phút | RRF và fallback tuân thủ contract        |
-| 4. Generation & UI   |   30 phút | Chatbot trả lời có citation              |
-| 5. Evaluation        |   30 phút | 15+ Q&A, 4 metric, A/B comparison        |
-| 6. Demo & handoff    |   30 phút | Test, report, demo và push repository    |
-
-## Lưu ý quy tắc để có code quality tốt:
-
-- Dense và BM25 nên cùng trả về `SearchResult` theo một schema.
-- RRF chỉ nên dùng để gộp thứ hạng và chỉ chạy một lần.
-- Fallback dùng cosine score gốc của dense retrieval.
-- Threshold phải được hiệu chỉnh trên query in domain và out of domain, không có một con số đúng cho mọi corpus.
-
-## Tài liệu
-
-- [Module contracts](docs/MODULE_CONTRACTS.md): schema, interface và invariant mà code/test nên tuân theo.
-- [Step-by-step guide](docs/STEP_BY_STEP.md): thứ tự triển khai và tiêu chí hoàn thành từng bước.
-- [Grading rubric](docs/GRADING_RUBRIC.md): Rubric thang điểm.
-- [Individual report](group_project/ịndividual/INDIVIDUAL_REPORT.md): template báo cáo cá nhân.
-- [Suggested topics](docs/SUGGESTED_TOPICS.md): danh sách chủ đề tham khảo, không bắt buộc.
-
-## Kiểm tra
+## Test và evaluation
 
 ```bash
-# Contract tests
 pytest tests/test_contracts.py -q
-
-# Acceptance tests
 pytest tests/test_acceptance.py -q
-
-# Toàn bộ
 pytest -q
 ```
+
+Golden set có 15 case tại `group_project/evaluation/golden_dataset.json`. Báo cáo A/B dense-only và hybrid + RRF nằm tại `group_project/evaluation/RESULT.md`. Chỉ điền điểm metric sau khi chạy thật với cùng model, prompt, dataset và `top_k`; không dùng số ước đoán.
+
+## Demo tối thiểu
+
+- Query trong domain: `Bãi biển Mỹ Khê có gì nổi bật?`
+- Query exact name: `My Son Sanctuary được gọi chính xác bằng tên gì?`
+- Query ngoài domain: `Cách sửa kernel panic trên Linux?`
+
+UI lưu cả answer và sources trong `st.session_state`, nên citation vẫn hiện sau rerun. Khi retrieval/provider lỗi hoặc evidence không đủ, hệ thống trả safe refusal thay vì làm Streamlit crash.
+
+## Hạn chế
+
+Corpus phụ thuộc chất lượng crawl và trích xuất PDF; tài liệu scan/bảng phức tạp có thể thiếu text. Chất lượng câu trả lời phụ thuộc embedding, top-k, threshold và provider. Thông tin du lịch có thể thay đổi, vì vậy không nên xem chatbot là nguồn xác nhận thời gian mở cửa, giá vé hoặc quy định hiện hành nếu corpus chưa cập nhật.
